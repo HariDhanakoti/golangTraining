@@ -1,0 +1,8 @@
+{
+    "explorer.confirmDragAndDrop": true,
+    "explorer.confirmDelete": true,
+    "go.gopath": "/usr/local/go/bin",
+    "go.lintTool": "golangci-lint",
+    "files.autoSave": "onFocusChange",
+    "go.inferGopath": true
+}
