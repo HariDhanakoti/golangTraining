@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"explorer.confirmDragAndDrop": true,
+		"explorer.confirmDelete": true,
+		"files.autoSave": "onFocusChange"
+	}
+}
