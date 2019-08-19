@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
+	
 	var i int
 	i = 10
 	fmt.Println(i)
@@ -12,6 +13,7 @@ func main() {
 	var f float32 = 91.8
 	fmt.Println(f)
 
+	//Implicit initialization
 	firstName := "John"
 	fmt.Println(firstName)
 
